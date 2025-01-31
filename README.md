@@ -6,7 +6,7 @@ The Framelet method is implemented from https://github.com/TaiXiangJiang/Framele
 
 * The main/ltrc_tnn_transform.m is the main script.
 
-* The main/for_analysis.m gives the support for the analysis.
+* The main/for_analysis.m gives support for the analysis.
 
 * Subfunctions are in fun.
 
